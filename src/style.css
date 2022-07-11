@@ -1,1 +1,11 @@
-/* styles go here */
+.set {
+  margin-bottom: 20px;
+}
+
+.form-field {
+  margin-bottom: 10px;
+}
+
+.set > :last-child {
+  margin-bottom: 0;
+}
